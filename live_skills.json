@@ -1,0 +1,38 @@
+{
+  "Data Engineer": {
+    "core": [
+      "spark",
+      "databricks",
+      "dbt",
+      "kafka",
+      "snowflake"
+    ],
+    "good": [
+      "aws glue",
+      "redshift",
+      "airflow",
+      "python",
+      "sql"
+    ]
+  },
+  "Cloud Engineer": {
+    "core": [
+      "terraform",
+      "eks",
+      "aks",
+      "gke",
+      "docker"
+    ],
+    "good": [
+      "aws",
+      "azure",
+      "kubernetes",
+      "argo cd",
+      "istio"
+    ]
+  },
+  "DevSecOps": {
+    "core": [],
+    "good": []
+  }
+}
